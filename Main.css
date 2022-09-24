@@ -1,17 +1,17 @@
 <style>
 /* 背景色の指定 */
  body {
-   background-color: #40e0d0;
+   	background-color: #40e0d0;
 }
 /* 授業内容 */
 .zyugyo"{
-  border: solid 2px gray;
+  	border: solid 2px gray;
 }
 
 /* 料金設定 */
 .ryokin {
-  text-align: center;
-  border: double 5px gray;
+  	text-align: center;
+  	border: double 5px gray;
 }
 h1 {
 	font-size:40px
@@ -20,7 +20,8 @@ h1 {
 }
 /* パラグラフの文字色と大きさ指定 */
 p { 
-  color: gray;
-  font-size: 20px;
+  	color: gray;
+  	font-size: 20px;
+	text-align: justify;
 }
 </style>
