@@ -16,7 +16,7 @@ head {
 		font-weight: bold; /* 太字 */
 		color: black; /* 黒色 */
 	}
-	 p.profile{
+	 .profile{
 		 display: inline-block;
 		 vertical-align: top;
 	 }
