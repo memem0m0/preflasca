@@ -16,8 +16,12 @@ head {
 		font-weight: bold; /* 太字 */
 		color: black; /* 黒色 */
 	}
-	 .profile{
-		 display: flex;
+	/* .profile{
+
+	 }*/
+	 p.profile{
+		 display: inline-block;
+		 vertical-align: top;
 	 }
 	 /* 授業内容 */
 	.zyugyo {
