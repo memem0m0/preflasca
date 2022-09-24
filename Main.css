@@ -30,11 +30,10 @@ head {
 		border: double 5px gray;
 	}
 /* パラグラフの文字色と大きさ指定 */
+}
 p { 
   	color: #f0ffff;
   	font-size: 30px;
 	text-align: justify;
 }
-}
-
 </style>
