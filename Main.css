@@ -2,11 +2,18 @@
 /* 背景色の指定 */
 head {
    	background-color: #40e0d0;
+	line-height: 1;
+	display: flex;					/*flexボックスを使う指定*/
+	flex-direction: column;			/*子要素を縦並びにする*/
+	text-align: center;
+	margin: 20px 3%;				/*上下、左右へ空けるスペース*/
+}
 	h1 {
 		font-size:60px;
 		font-weight: bold; /* 太字 */
 		color: black; /* 黒色 */
 	}
+
 }
 /* 背景色の指定 */
  body {
@@ -37,6 +44,9 @@ head {
 	}
 /* パラグラフの文字色と大きさ指定 */
 
+}
+a:hover {
+	color: #293765;	/*マウスオン時の文字色*/
 }
 p { 
   	color: #f0ffff;
