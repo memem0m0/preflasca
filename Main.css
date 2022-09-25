@@ -13,13 +13,7 @@ head {
 	text-align: center;
 	margin: 20px 3%;				/*上下、左右へ空けるスペース*/
 }
-	
-<ul>
-	<li><a href="list.html">飲食店の求人</a></li>
-	<li><a href="list.html">営業の求人</a></li>
-	<li><a href="list.html">接客・販売の求人</a></li>
-	<li><a href="list.html">事務の求人</a></li>
-	</ul>h1 {
+h1 {
 		font-size:60px;
 		font-weight: bold; /* 太字 */
 		color: black; /* 黒色 */
