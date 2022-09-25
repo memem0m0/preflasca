@@ -23,14 +23,14 @@ h1 {
 		font-weight: bold; /* 太字 */
 		color: black; /* 黒色 */
 	}
-.menuvar{
+/*.menuvar{
    	background-color: #40e0d0;
 	line-height: 1;
 	display: flex;					/*flexボックスを使う指定*/
 	flex-direction: column;			/*子要素を縦並びにする*/
 	text-align: center;
 	margin: 20px 3%;				/*上下、左右へ空けるスペース*/
-}
+}*/
 	 .profile{
 		 display: inline-block;
 		 vertical-align: top;
