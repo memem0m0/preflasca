@@ -1,5 +1,10 @@
 <style>
-/* 背景色の指定 */
+html,body {
+	margin: 0;padding: 0;
+	overflow-x: hidden;
+	font-size: 14px;	/*基準となるフォントサイズ。下の方にある「画面幅1000px以上」で基準を大きなサイズに再設定しています。*/
+}
+/* ヘッダーの指定 */
 head {
    	background-color: #40e0d0;
 	line-height: 1;
@@ -8,7 +13,13 @@ head {
 	text-align: center;
 	margin: 20px 3%;				/*上下、左右へ空けるスペース*/
 }
-	h1 {
+	
+<ul>
+	<li><a href="list.html">飲食店の求人</a></li>
+	<li><a href="list.html">営業の求人</a></li>
+	<li><a href="list.html">接客・販売の求人</a></li>
+	<li><a href="list.html">事務の求人</a></li>
+	</ul>h1 {
 		font-size:60px;
 		font-weight: bold; /* 太字 */
 		color: black; /* 黒色 */
